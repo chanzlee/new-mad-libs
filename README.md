@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage create a mad lib with captured user inputs through html file. The script uses forEach() loop on the array of user inputs and assign values to span tags with selected class. This was done for refactoring exercise after learning loop._
+_This webpage create a mad lib with captured user inputs through html file. The script uses forEach() loop on the array of user inputs and assign values to span tags with selected class. This was done for refactoring exercise after learning loop._
 
 ## Setup/Installation Requirements
 
